@@ -1,0 +1,12 @@
+
+
+
+#menu ul li ul.submenu {position:fixed; left:0px; top:180px; width:100%; border:none; z-index:0}
+#menu ul li ul.submenu li {margin:0;}
+#menu ul li ul.submenu li a {font-weight: bold; display:block; width: 155px; }
+#menu ul li ul.submenu li a:hover {color:white; text-decoration: none; }
+
+#menu ul li ul.submenu2 {position:fixed; left:0px; top:400px; width:100%; border:none; z-index:0}
+#menu ul li ul.submenu2 li {margin:0;}
+#menu ul li ul.submenu2 li a {font-weight: bold; display:block; width: 155px; }
+#menu ul li ul.submenu2 li a:hover {color:white; text-decoration: none; }
